@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/Volumes/arm-linux-linaro/rpi2/build/src/gcc-linaro-4.9-2014.09/configure --build=x86_64-build_apple-darwin14.1.0 --host=x86_64-build_apple-darwin14.1.0 --target=arm-cortex_a7-linux-gnueabihf --prefix=/usr/local/arm-cortex_a7-linux-gnueabihf --with-sysroot=/usr/local/arm-cortex_a7-linux-gnueabihf/arm-cortex_a7-linux-gnueabihf/libc --enable-languages=c,c++ --disable-multilib --enable-multiarch --with-cpu=cortex-a7 --with-tune=cortex-a7 --with-fpu=vfpv4 --with-float=hard --with-pkgversion='crosstool-NG linaro-1.13.1-4.9-2014.09' --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --with-gmp=/Volumes/arm-linux-linaro/rpi2/build/arm-cortex_a7-linux-gnueabihf/build/static --with-mpfr=/Volumes/arm-linux-linaro/rpi2/build/arm-cortex_a7-linux-gnueabihf/build/static --with-mpc=/Volumes/arm-linux-linaro/rpi2/build/arm-cortex_a7-linux-gnueabihf/build/static --with-ppl=no --with-cloog=no --with-isl=no --with-libelf=/Volumes/arm-linux-linaro/rpi2/build/arm-cortex_a7-linux-gnueabihf/build/static --enable-threads=posix --enable-linker-build-id --with-local-prefix=/usr/local/arm-cortex_a7-linux-gnueabihf/arm-cortex_a7-linux-gnueabihf/libc --enable-c99 --enable-long-long --with-float=hard";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a7" }, { "tune", "cortex-a7" }, { "float", "hard" }, { "fpu", "vfpv4" }, { "tls", "gnu" } };
